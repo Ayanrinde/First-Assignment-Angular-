@@ -1,0 +1,50 @@
+.all{
+    display: flex;
+}
+
+.image{
+    width: 700px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.Forgot{
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+    margin-top: 30px;
+    display: block;
+}
+
+button{
+    width: 320px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.line{
+    margin-top: 20px;
+}
+
+p{
+    font-size: 12px;
+}
+
+.body{
+    margin: 100px;
+    margin-top: 10px;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+}
